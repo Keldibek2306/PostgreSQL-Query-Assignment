@@ -1,0 +1,4 @@
+SELECT * 
+FROM library
+ORDER BY price DESC
+LIMIT 1;

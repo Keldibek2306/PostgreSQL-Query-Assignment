@@ -1,0 +1,4 @@
+SELECT * 
+FROM library
+ORDER BY copies DESC
+LIMIT 1;
